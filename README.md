@@ -1,15 +1,12 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-
-Data: 04/12/2025
-Empresa: Abstergo Pharma Network
-ResponsÃ¡vel: Giovana Sanches
+- Data: 04/12/2025
+- Empresa: Abstergo Pharma Network
+- Responsável: Giovana Sanches
 
 ## Introdução
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa [nome da empresa], realizado por [nome do responsÃ¡vel pelo projeto]. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
+Este relatório descreve a proposta de implementação de 3 serviços da Amazon Web Services para a empresa Abstergo Pharma Network com foco em redução imediata de custos operacionais na infraestrutura de TI da rede de farmácias. O objetivo principal é otimizar recursos, reduzir gastos com servidores físicos e melhorar escalabilidade sem desperdício financeiro.
 
-Este relatório descreve a proposta de implementação de 3 serviços da Amazon Web Services com foco em redução imediata de custos operacionais na infraestrutura de TI da rede de farmácias. O objetivo principal é otimizar recursos, reduzir gastos com servidores físicos e melhorar escalabilidade sem desperdício financeiro.
-
-## etapas do Projeto
+## Etapas do Projeto
 
 Etapa 1: AWS Lambda
 - Foco: Execução serverless sob demanda
@@ -23,18 +20,18 @@ Etapa 2: Amazon S3
 
 Etapa 3: AWS Cost Explorer
 - Foco: Monitoramento inteligente de gastos
-- [Foco da ferramenta]
-- [DescriÃ§Ã£o de caso de uso]
+- Caso de uso: Mapear serviços mais caros, criar alertas, analisar desperdícios e gerar relatórios mensais para tomada de decisão da equipe financeira e de TI.
+- Benefício de custo: Permite encontrar rapidamente gargalos de custo, possibilitando desligar ou redimensionar serviços caros.
 
-
-
-## ConclusÃ£o
-A implementaÃ§Ã£o de ferramentas na empresa *[nome da empresa] tem como esperado [benefÃ­cios das ferramentas]*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+## Conclusão
+A adoção do conjunto de ferramentas da AWS Lambda, Amazon S3 e AWS Cost Explorer traz uma redução substancial nos custos, especialmente em processamento e armazenamento, ao eliminar desperdícios com servidores sempre ligados e infraestrutura local cara de manter. Recomenda-se que a empresa adote também práticas de FinOps e expansão futura do serverless para novos fluxos internos.
 
 ## Anexos
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+- Relatório de custos atual vs economia projetada
+- Planilha de classificação de dados para S3/Glacier
+- Diagrama da arquitetura Serverless proposta
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+## Assinatura do Responsável pelo Projeto:
 
-[Nome do ResponsÃ¡vel pelo Projeto]
+Giovana Sanches - Responsável pela Implementação de Serviços AWS
